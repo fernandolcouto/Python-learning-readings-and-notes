@@ -1,7 +1,7 @@
 # Python-learning-readings-and-notes
 Python learning readings and notes
 
-# Introduction
+# Introduction (@@)
 
 The large amount of access to information implies the need to keep the collection of data sources organized.
 Although with limitations, initially, the "Favorites" feature of the browser proved to be a viable option, as it allows you to store links in folders and subfolders. Searches can be separated into "Read", "Unread", as well as categorize them by Sources such as: Scientific Articles, Blog Posts, Video Content, etc.
