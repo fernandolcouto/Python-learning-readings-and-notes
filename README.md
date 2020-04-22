@@ -8,7 +8,7 @@ Although with limitations, initially, the "Favorites" feature of the browser pro
 Nevertheless, a persistent limitation of this resource (Browser Favorites) is the need to keep the assimilated content (learning) together with the information from the research source. A link to the source and another to the content produced fragments the learning process and this fragmentation helps to disperse and slow the absorption of knowledge.
 Thus, the problem to be solved consists of building, or finding, a single place to store all the research content keeping concise notes, images, codes, mathematical formulas, hypotheses and any and all content produced from contact with particular data source.
 
-# Solution
+# Solution (test)
 
 Fortunately, the GitHub framework already provides a relatively simple solution, as shown in Article "https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37", which points to the "https://github.com/khuyentran1401/machine-learning-articles" repository.
 In the Article, the author discusses solutions that already exist and discusses ways of using the "Issues" feature of GitHub. Follow the links.
